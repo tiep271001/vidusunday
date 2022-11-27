@@ -9,5 +9,5 @@ int main()
         count += n%10;
         n = n/10;
     }
-    printf("%d", count%10);
+    printf("%d", count);
 }
